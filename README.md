@@ -47,6 +47,10 @@ pip install pywin32
 
 # 変更履歴
 
+## [1.0.1] - 2023-12-20
+### 修正
+- remove-meta-alpha.batを修正
+
 ## [1.0.0] - 2023-12-20
 ### 追加
 - GitHubで公開
@@ -102,6 +106,10 @@ pip install pywin32
 <br><br>
 
 # Change Log
+
+## [1.0.1] - 2023-12-20
+### Fixed
+- Fixed remove-meta-alpha.bat
 
 ## [1.0.0] - 2023-12-20
 ### Added
